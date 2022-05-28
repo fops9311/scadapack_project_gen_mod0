@@ -1,0 +1,45 @@
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_1}}</RegAddress>
+        <RegisterValue>{{ .Sections.SCAL_AI}}</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_2}}</RegAddress>
+        <RegisterValue>0</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_3}}</RegAddress>
+        <RegisterValue>32767</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_4}}</RegAddress>
+        <RegisterValue>0</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_5}}</RegAddress>
+        <RegisterValue>0</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_6}}</RegAddress>
+        <RegisterValue>16672</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_7}}</RegAddress>
+        <RegisterValue>0</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_8}}</RegAddress>
+        <RegisterValue>16256</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>
+      <OneElementConfiguration>
+        <RegAddress>{{ .Sections.SCAL_ADDR_9}}</RegAddress>
+        <RegisterValue>0</RegisterValue>
+        <RegisterStatus>0</RegisterStatus>
+      </OneElementConfiguration>

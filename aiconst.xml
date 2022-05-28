@@ -1,0 +1,17 @@
+      <OneFloatPointConst>
+        <FCValue>2</FCValue>
+        <InUse>true</InUse>
+      </OneFloatPointConst>
+      <OneFloatPointConst>
+        <FCValue>2</FCValue>
+        <InUse>true</InUse>
+      </OneFloatPointConst>
+      <OneFloatPointConst>
+        <FCValue>1.05</FCValue>
+        <InUse>true</InUse>
+      </OneFloatPointConst>
+      <OneFloatPointConst>
+        <FCValue>0.95</FCValue>
+        <InUse>true</InUse>
+      </OneFloatPointConst>
+      

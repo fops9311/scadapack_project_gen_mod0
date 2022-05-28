@@ -1,0 +1,5 @@
+
+      <TagName>{{ .Name}}</TagName>
+      <TagType>Register 4nnnn</TagType>
+      <TagValue>{{ .Sections.tagaddr}}</TagValue>
+    </OneTag>
